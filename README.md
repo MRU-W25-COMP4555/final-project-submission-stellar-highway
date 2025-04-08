@@ -4,6 +4,7 @@
 - When close to a planet, press **E** to get resources or **Q** to blow up the planet
 - Press **right click** to build highway, _can only be built from the last piece of highway or at the starting planet_
 - Press **R** to show the intro message again
+- Alt + f4 if you get stuck
 
 **GOAL OF THE LEVEL**
 - Build a highway that reaches the stargate structure
