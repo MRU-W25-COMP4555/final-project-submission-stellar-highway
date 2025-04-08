@@ -40,4 +40,3 @@ In the case of the later:
 - Hitboxes are a bit janky, so if your ship hits them wrong, you may have to restart
 - Placing the first bit of highway, you need to be right up next to the planet, and once you place the first piece, you have to place from that piece, so check the back of the planet in case you missclicked
 
-**https://youtu.be/YZF0FAi5Pt8 VIDEO LINK!**
