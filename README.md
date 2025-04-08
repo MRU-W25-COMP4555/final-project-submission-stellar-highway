@@ -14,17 +14,17 @@
 - Blow up 3 planets
 
 **HOW TO BUILD THE HIGHWAY/ PLAY THE GAME**
--Get unobtainium by flying to a planet and pressing E
--Go to the "CLIENT" planet 
--Back up to the client planet so the butt of your ship is right up against the middle of the planet
--Press right click, and you should see bits of a highway spawn from the center of the planet
--Position your shio above the highway, and you will get a "ghost" indicator as to where the next highway piece will be placed
--Keep going to the end of the highway and position the "ghost" highway where u want to place it and keep going until the highway reaches the stargate
+- Get unobtainium by flying to a planet and pressing E
+- Go to the "CLIENT" planet 
+- Back up to the client planet so the butt of your ship is right up against the middle of the planet
+- Press right click, and you should see bits of a highway spawn from the center of the planet
+- Position your shio above the highway, and you will get a "ghost" indicator as to where the next highway piece will be placed
+- Keep going to the end of the highway and position the "ghost" highway where u want to place it and keep going until the highway reaches the stargate
 
 **EXTRA**
--Build the highway through the glowing purple effects so you can hit the checkpoint.
--Each planet has a different set of 5 or so pop-ups, so you will get a different one every time you play
--Resource is called unobtainium and is in the top left
--Hitboxes are a bit janky, so if your ship hits them wrong, you may have to restart
--Placing the first bit of highway, you need to be right up next to the planet, and once you place the first piece, you have to place from that piece, so check the back of the planet in case you missclicked
--
+- Build the highway through the glowing purple effects so you can hit the checkpoint.
+- Each planet has a different set of 5 or so pop-ups, so you will get a different one every time you play
+- Resource is called unobtainium and is in the top left
+- Hitboxes are a bit janky, so if your ship hits them wrong, you may have to restart
+- Placing the first bit of highway, you need to be right up next to the planet, and once you place the first piece, you have to place from that piece, so check the back of the planet in case you missclicked
+
