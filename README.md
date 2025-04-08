@@ -24,7 +24,7 @@
 
 **EXTRA**
 - Build the highway through the glowing purple effects so you can hit the checkpoint.
-- Each planet has a different set of 5 or so pop-ups, so you will get a different one every time you play
+- Each planet has a different set of 5 or different dialouge reactions, based on how you interact with the planet. So, you may get different reactions in different playthroughs.
 - Resource is called unobtainium and is in the top left
 - Hitboxes are a bit janky, so if your ship hits them wrong, you may have to restart
 - Placing the first bit of highway, you need to be right up next to the planet, and once you place the first piece, you have to place from that piece, so check the back of the planet in case you missclicked
