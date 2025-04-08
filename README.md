@@ -1,3 +1,12 @@
+
+To download and play the game: Either download game.zip or StellarHighway.7z under Releases.
+In the case of the later: 
+  - Download StellarHighway.7z
+  - Extract
+  - Go into WindowsBuild folder
+  - Run Space Highway.exe
+
+
 **CONTROLS**
 - Movement is **WSAD**
 - Press **H** for free cam
